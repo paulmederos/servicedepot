@@ -63,11 +63,11 @@ a {
 }
 
 .banner {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  background-color: rgba(33,150,244,0.95);
+  background-color: rgba(33,150,244,0.92);
   z-index:2;
 }
 
